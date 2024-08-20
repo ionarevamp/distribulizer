@@ -1,0 +1,1 @@
+A general-purpose library for visualizing the differences of a data set with a given range.

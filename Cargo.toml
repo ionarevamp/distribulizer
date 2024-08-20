@@ -1,0 +1,13 @@
+[package]
+name = "distribulizer"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "distribulizer"
+description = "A general-purpose library for visualizing the differences of a data set with a given range."
+path = "src/lib.rs"
+test = true
+edition = "2021"
+
+[dependencies]
